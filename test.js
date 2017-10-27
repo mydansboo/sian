@@ -7,4 +7,4 @@ assert.equal(val1,12);
 
 const val2 = multi(2,3,3);
 console.log(val2);
-assert.equal(val2,1);
+assert.equal(val2,11);
