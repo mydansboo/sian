@@ -5,3 +5,4 @@ const multiplier = (a, b, c) => {
 };
 
 module.exports = multiplier;
+
