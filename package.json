@@ -1,0 +1,15 @@
+{
+  "name": "sian",
+  "version": "1.0.0",
+  "description": "multiplier",
+  "main": "index.js",
+  "scripts": {
+    "prepush": "npm test",
+    "test": "node test"
+  },
+  "author": "sian",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^0.14.3"
+  }
+}
